@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lukeSkywallk or you can call me Edilson Rodrigues too
-- Java, Python and Data Scientis wannabe
+- Java, Python and Data Scientist wannabe
 - Reach me on [Linked](https://www.linkedin.com/in/edilson-rodrigues-438156138/) and my [email](mailto:edilson.w3g@gmail.com)
 
 <!---
