@@ -1,4 +1,4 @@
-- Hi, I’m @lukeSkywallk or you can call me Edilson Rodrigues too
+- Hi, I’m Edilson Rodrigues
 - Languages: Java, Python 
 - Data Scientist wannabe
 - Reach me on [Linkedin](https://www.linkedin.com/in/edilson-rodrigues-438156138/) and my [email](mailto:edilson.w3g@gmail.com)
